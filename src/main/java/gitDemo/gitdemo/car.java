@@ -1,5 +1,5 @@
 package gitDemo.gitdemo;
 
-public class car {
+public class Car {
 
 }
