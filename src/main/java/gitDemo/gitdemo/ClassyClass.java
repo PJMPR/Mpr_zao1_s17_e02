@@ -15,4 +15,8 @@ public class ClassyClass
     {
         return true;
     }
+
+    public String howDoYouLikeTheParty() {
+        return "It's quite exquisite, thank you.";
+    }
 }
